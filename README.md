@@ -36,3 +36,6 @@ This project is a personalized news aggregator that scrapes articles from multip
 - GET /articles/{id}: Retrieves a specific article by its ID
 - GET /search?keywords={query}: Searches articles by a specific keyword
 
+## Google Drive Video Link 
+- https://drive.google.com/file/d/1_vmNFfobvaG0radE7AvGeiZ8iF4uoVJW/view?usp=sharing
+
