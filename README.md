@@ -14,9 +14,9 @@ This project is a personalized news aggregator that scrapes articles from multip
 
 ## Technologies Used
 - Python
-- Django/Flask/FastAPI
-- Selenium, BeautifulSoup, Requests
-- NLP Libraries: NLTK, spaCy, TextBlob
+- Django
+- BeautifulSoup, Requests
+- NLP Libraries: NLTK, spaCy
 - CSV for storing data
 - REST API for serving data
 
@@ -25,3 +25,15 @@ This project is a personalized news aggregator that scrapes articles from multip
 
    git clone https://github.com/SrikarSaini/Personalized-News-Aggregator.git
    cd Personalized-News-Aggregator
+2. Set Up a Virtual Environment.
+3. Install Dependencies
+4. Run the Scraper
+5. Set Up the API
+6. Access and Test the API
+7. Testing the API using Postman/Newman/Insomnia
+
+Use Postman or your browser to interact with the API. You can test the following endpoints:
+   -GET /articles: Retrieves all articles.
+   -GET /articles/{id}: Retrieves a specific article by its ID.
+   -GET /search?keywords={query}: Searches articles by a specific keyword.
+
