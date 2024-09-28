@@ -22,7 +22,6 @@ This project is a personalized news aggregator that scrapes articles from multip
 
 ## Setup Instructions
 1. Clone the repository.
-
    git clone https://github.com/SrikarSaini/Personalized-News-Aggregator.git
    cd Personalized-News-Aggregator
 2. Set Up a Virtual Environment.
@@ -32,8 +31,8 @@ This project is a personalized news aggregator that scrapes articles from multip
 6. Access and Test the API
 7. Testing the API using Postman/Newman/Insomnia
 
-Use Postman or your browser to interact with the API. You can test the following endpoints:
-   -GET /articles: Retrieves all articles.
-   -GET /articles/{id}: Retrieves a specific article by its ID.
-   -GET /search?keywords={query}: Searches articles by a specific keyword.
+## Use Postman or your browser to interact with the API. You can test the following endpoints
+- GET /articles: Retrieves all articles
+- GET /articles/{id}: Retrieves a specific article by its ID
+- GET /search?keywords={query}: Searches articles by a specific keyword
 
