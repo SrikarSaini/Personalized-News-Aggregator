@@ -1,0 +1,5 @@
+Django==4.1
+beautifulsoup4==4.9.3
+requests==2.26.0
+spaCy==3.2.0
+NLTK==3.6.5
